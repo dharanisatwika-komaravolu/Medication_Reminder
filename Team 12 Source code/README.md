@@ -19,10 +19,10 @@
  React with Redux, Material-UI
 
 **Backend:**
- Laravel (PHP)
+ Node.js
 
 **Database:**
- MySQL/MariaDB
+ MySQL
 
 **Machine Learning:**
  Python-based machine learning recommendation model
